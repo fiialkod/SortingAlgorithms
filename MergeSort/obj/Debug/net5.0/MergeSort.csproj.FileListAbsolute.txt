@@ -1,0 +1,15 @@
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/bin/Debug/net5.0/MergeSort.deps.json
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/bin/Debug/net5.0/MergeSort.runtimeconfig.json
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/bin/Debug/net5.0/MergeSort.runtimeconfig.dev.json
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/bin/Debug/net5.0/MergeSort.dll
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/bin/Debug/net5.0/ref/MergeSort.dll
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/bin/Debug/net5.0/MergeSort.pdb
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/obj/Debug/net5.0/MergeSort.csproj.AssemblyReference.cache
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/obj/Debug/net5.0/MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/obj/Debug/net5.0/MergeSort.AssemblyInfoInputs.cache
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/obj/Debug/net5.0/MergeSort.AssemblyInfo.cs
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/obj/Debug/net5.0/MergeSort.csproj.CoreCompileInputs.cache
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/obj/Debug/net5.0/MergeSort.dll
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/obj/Debug/net5.0/ref/MergeSort.dll
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/obj/Debug/net5.0/MergeSort.pdb
+/Users/denysfiialko/Repos/Study/SortingAlgorithms/MergeSort/obj/Debug/net5.0/MergeSort.genruntimeconfig.cache
